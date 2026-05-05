@@ -43,7 +43,7 @@ Example categories include:
 ---
 
 ## 👥 Contributors
-- [Your Name]
+- Elektra Desmillienne
 - [Your Name]
 - [My Name]
 
