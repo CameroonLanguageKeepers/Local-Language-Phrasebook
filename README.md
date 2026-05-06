@@ -45,7 +45,7 @@ Example categories include:
 ## 👥 Contributors
 - Elektra Desmillienne
 - [Davali Tanjong]
-- [My Name]
+- Tony-Vic Fongang
 
 (This is a collaborative learning project.)
 
