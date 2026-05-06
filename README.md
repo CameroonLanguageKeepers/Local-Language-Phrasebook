@@ -44,7 +44,7 @@ Example categories include:
 
 ## 👥 Contributors
 - Elektra Desmillienne
-- [Your Name]
+- [Davali Tanjong]
 - [My Name]
 
 (This is a collaborative learning project.)
