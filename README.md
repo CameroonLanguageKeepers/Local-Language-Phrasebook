@@ -28,10 +28,10 @@ The app works **offline** and provides translations from English to a selected l
 Example categories include:
 - Greetings
 - Family
--
--
--
--
+-Food
+-Travel
+-Emergency
+-Shopping
 
 ---
 
