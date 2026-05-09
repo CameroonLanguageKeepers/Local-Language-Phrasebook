@@ -3,38 +3,38 @@
 # English > meta (bameta) 
 
 ## Greetings
-- good morning
-- how are you
-- how was your day
-- good afternoon
-- good evening
-- how is your mom
-- how is your sister
-- how is your brother
-- how is your uncle
-- how is our your friends
+- good morning > anoh
+- how are you > a yi ye
+- how was your day > 
+- good afternoon > a jeh
+- good evening > way fien
+- how is your mom > way gop way ye
+- how is your sister > way fie way ye
+- how is your brother > way jobie way ye
+- how is your uncle > 
+- how is your friends > way sheh way ye 
 ## Family
 - uncle
-- mother
-- father
-- sister
-- brother
-- grandmother
-- grandfather
+- mother > egop 
+- father > embah
+- sister > fie
+- brother > jobie
+- grandmother > egopkin
+- grandfather > embahkin
 - anty
 - cousine
 - 
 ## Food
-- Rice
-- jelove rice
-- egusi soap
-- fufu
-- beans
-- stew
-- corn
-- corn fufu
-- vegitable
-- rice and beans
+- Rice > kungarah
+- jelove rice > kungarahchepi
+- egusi soap > mie gouh
+- fufu > fufu
+- beans > kunkabeh 
+- stew > mie
+- corn > kieh
+- plantain > ngun  
+- vegitable >
+- rice and beans > kunkara te kunkabe
 
 # English > Mokpe(Bakweri)
 
