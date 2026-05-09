@@ -21,20 +21,20 @@
 - brother
 - grandmother
 - grandfather
+- anty
+- cousine
 - 
--
--
 ## Food
--
--
--
--
--
--
--
--
--
--
+- Rice
+- jelove rice
+- egusi soap
+- fufu
+- beans
+- stew
+- corn
+- corn fufu
+- vegitable
+- rice and beans
 
 # English > Mokpe(Bakweri)
 
