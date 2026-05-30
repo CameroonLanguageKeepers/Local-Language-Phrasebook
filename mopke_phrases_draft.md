@@ -1,8 +1,38 @@
 # Mokpe Phrases Draft
 # English > Mokpe 
 ## Greetings
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
 ## Family
+-Children>hwana
+-
+-
+-
+-
+-
+-
+-
+-
+-
 ## Food
+-pear>piya
+-Vegetable> Wuwa
+-pepper> indoko
+-Cocoyam>kumbu
+-food>moleli
+-Bitter leaf> Ndoo
+-Fruits>Hwehvuma
+-Soup> Morzaka
+-Cook> li ihva
+-Salt> Ikpa
 ## Travel
 - Car > Motowa
 - Road > Njia
