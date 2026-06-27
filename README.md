@@ -1,17 +1,91 @@
-# local_phrasebook
+# 🌍 Local Language Phrasebook App
+An offline mobile app for learning and preserving local languages through simple everyday phrases
 
-A new Flutter project.
+## 📖 Overview
+This project is a beginner-friendly mobile app designed to help people learn and preserve local languages through simple, everyday phrases.
 
-## Getting Started
+The app works **offline** and provides translations from English to a selected local language, organized by categories like greetings, food, and family.
 
-This project is a starting point for a Flutter application.
+---
 
-A few resources to get you started if this is your first Flutter project:
+## 🎯 Project Goals
+- Promote local language learning and preservation
+- Build a simple, useful mobile app from scratch
+- Learn GitHub collaboration as a team
+- Gain first experience in mobile app development (Flutter)
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🚀 Features (Version 1)
+- 📂 Browse phrases by category
+- 🔤 View English → Local language translations
+- 📱 Works completely offline
+- 🎯 Simple and beginner-friendly design
+
+---
+
+## 📚 Categories
+Example categories include:
+- Greetings
+- Family
+- Food
+- Travel
+- Emergency
+- Shopping
+
+---
+
+## 🛠️ Tech Stack
+- **Flutter** (Mobile App Development)
+- **Dart** (Programming Language)
+- **GitHub** (Version Control & Collaboration)
+
+---
+
+## 👥 Contributors
+- Elektra Desmillienne
+- Davali Tanjong
+- Tony-Vic Fongang
+
+(This is a collaborative learning project.)
+
+---
+
+## 📅 Project Timeline
+This project is being built over 4 weeks with 1–2 hours of work per person each week.
+
+---
+
+## ✅ Status
+🔹 Week 1: Project setup, GitHub, and data collection  
+🔹 Week 2: App structure and UI  
+🔹 Week 3: Phrase display and navigation  
+🔹 Week 4: Testing and release (v1.0)
+
+---
+
+## 💡 Why This Project Matters
+Many local languages are underrepresented in digital tools.
+
+This app is a small step toward:
+- Preserving cultural identity
+- Making local languages accessible
+- Encouraging learning across generations
+
+> "Every phrase we add is a piece of history we are preserving."
+
+---
+
+## 🔮 Future Improvements
+- 🔊 Audio pronunciation
+- ⭐ Favorite phrases
+- 🧠 Quiz mode
+- 🌐 Community contributions
+
+---
+
+## 📦 Getting Started (Developers)
+
+### 1. Clone the repository
+```bash
+git clone https://github.com/YOUR-USERNAME/local-language-phrasebook.git
