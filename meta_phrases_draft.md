@@ -1,40 +1,40 @@
 # Meta Phrases Draft
 
-# English > meta (bameta) 
+# English > bameka (bamalaki)
 
 ## Greetings
-- good morning > anoh
-- how are you > a yi ye
+- good morning > 
+- how are you > 
 - how was your day > 
-- good afternoon > a jeh
-- good evening > way fien
-- how is your mom > way gop way ye
-- how is your sister > way fie way ye
-- how is your brother > way jobie way ye
+- good afternoon > 
+- good evening > 
+- how is your mom > 
+- how is your sister > 
+- how is your brother > 
 - how is your uncle > 
-- how is your friends > way sheh way ye 
+- how is your friends >  
 ## Family
 - uncle
-- mother > egop 
-- father > embah
-- sister > fie
-- brother > jobie
-- grandmother > egopkin
-- grandfather > embahkin
+- mother > 
+- father > 
+- sister > 
+- brother > 
+- grandmother > 
+- grandfather > 
 - anty
 - cousine
 - 
 ## Food
-- Rice > kungarah
-- jelove rice > kungarahchepi
-- egusi soap > mie gouh
-- fufu > fufu
-- beans > kunkabeh 
-- stew > mie
-- corn > kieh
-- plantain > ngun  
+- Rice > 
+- jelove rice > 
+- egusi soap > 
+- fufu > 
+- beans >  
+- stew > 
+- corn > 
+- plantain > 
 - vegitable >
-- rice and beans > kunkara te kunkabe
+- rice and beans > 
 
 ## Travel
 
