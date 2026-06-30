@@ -25,16 +25,16 @@
 - cousine >
 - 
 ## Food
+- Eat >
+- Drink > 
 - Rice > 
-- jelove rice > 
-- egusi soap > 
-- fufu > 
-- beans >  
-- stew > 
-- corn > 
-- plantain > 
-- vegitable >
-- rice and beans > 
+- Fish > 
+- Meat > 
+- Pepper > 
+- Salt > 
+- Hunger > 
+- Food > 
+- Water >
 
 ## Travel
 
