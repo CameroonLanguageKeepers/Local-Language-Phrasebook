@@ -1,12 +1,8 @@
 import 'package:flutter/material.dart';
-import 'screens/home_screen.dart';
+import 'phrase_list_screen.dart';
 
-void main() {
-  runApp(const MyApp());
-}
-
-class MyApp extends StatelessWidget {
-  const MyApp({super.key});
+class CategoriesScreen extends StatelessWidget {
+  const CategoriesScreen({super.key});
 
   static const List<String> categories = [
     'Greetings',
@@ -19,35 +15,16 @@ class MyApp extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    return MaterialApp(
-      debugShowCheckedModeBanner: false,
-      title: 'Local Phrasebook',
-      theme: ThemeData(
-        colorScheme: ColorScheme.fromSeed(
-          seedColor: Colors.deepPurple,
-        ),
-        useMaterial3: true,
-      ),
-      home: const HomeScreen(),
-    );
-  }
-}
-
-class CategoriesPage extends StatelessWidget {
-  const CategoriesPage({super.key});
-
-  @override
-  Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: const Text('Local Phrasebook'),
+        title: const Text('Categories'),
         centerTitle: true,
       ),
       body: ListView.builder(
         padding: const EdgeInsets.all(16),
-        itemCount: MyApp.categories.length,
+        itemCount: categories.length,
         itemBuilder: (context, index) {
-          final category = MyApp.categories[index];
+          final category = categories[index];
 
           return Card(
             margin: const EdgeInsets.only(bottom: 12),
@@ -55,6 +32,14 @@ class CategoriesPage extends StatelessWidget {
               leading: const Icon(Icons.folder_outlined),
               title: Text(category),
               trailing: const Icon(Icons.chevron_right),
+              onTap: () {
+                Navigator.push(
+                  context,
+                  MaterialPageRoute(
+                    builder: (context) => PhraseListScreen(category: category),
+                  ),
+                );
+              },
             ),
           );
         },
