@@ -1,5 +1,7 @@
 import 'package:flutter/material.dart';
 import 'categories_screen.dart';
+import 'about_screen.dart';
+import 'favorites_screen.dart';
 
 class HomeScreen extends StatelessWidget {
   const HomeScreen({super.key});
@@ -31,7 +33,12 @@ class HomeScreen extends StatelessWidget {
         ],
       ),
 
-      body: Padding(
+      body: SingleChildScrollView(
+        child: Center(
+          child: ConstrainedBox(
+            constraints: const BoxConstraints(maxWidth: 600,
+            ),
+        child: Padding(
         padding: const EdgeInsets.all(20),
         child: Column(
           children: [
@@ -122,9 +129,31 @@ class HomeScreen extends StatelessWidget {
           ],
         ),
       ),
+      ),
+        ),
+      ),
 
       bottomNavigationBar: BottomNavigationBar(
         currentIndex: 0,
+        onTap: (index) {
+  if (index == 1) {
+    Navigator.push(
+      context,
+      MaterialPageRoute(
+        builder: (context) => const FavoritesScreen(),
+      ),
+    );
+  }
+
+  if (index == 2) {
+    Navigator.push(
+      context,
+      MaterialPageRoute(
+        builder: (context) => const AboutScreen(),
+      ),
+    );
+  }
+},
         selectedItemColor: const Color(0xFF1F6B35),
         unselectedItemColor: Colors.black54,
         items: const [
