@@ -110,6 +110,28 @@ This app is a small step toward:
 
 ---
 
+## 📸 Screenshots
+
+### Splash Screen
+![Splash Screen](screenshots/splash.png)
+
+### Home
+![Home Screen](screenshots/home.png)
+
+### Categories
+![Categories Screen](screenshots/categories.png)
+
+### Phrase List
+![Phrase List Screen](screenshots/phrases.png)
+
+### Favorites
+![Favorites Screen](screenshots/favorites.png)
+
+### About
+![About Screen](screenshots/about.png)
+
+---
+
 ## 🔮 Future Improvements
 
 - 🔊 Audio pronunciation
