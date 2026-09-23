@@ -26,7 +26,7 @@ const List<Phrase> phrases = [
     category: 'Greetings',
   ),
   Phrase(
-    english: 'Good Evening',
+    english: 'Good evening',
     translation: 'Ngomba Gbamu',
     category: 'Greetings',
   ),
@@ -41,12 +41,12 @@ const List<Phrase> phrases = [
     category: 'Greetings',
   ),
   Phrase(
-    english: 'I am Fine',
+    english: 'I am fine',
     translation: 'Me Di Bote',
     category: 'Greetings',
   ),
   Phrase(
-    english: 'Thank You',
+    english: 'Thank you',
     translation: 'Jeki Zrai',
     category: 'Greetings',
   ),
@@ -56,7 +56,7 @@ const List<Phrase> phrases = [
     category: 'Greetings',
   ),
   Phrase(
-    english: 'See You Later',
+    english: 'See you later',
     translation: 'Towele Nde',
     category: 'Greetings',
   ),
@@ -102,12 +102,12 @@ const List<Phrase> phrases = [
     category: 'Family',
   ),
   Phrase(
-    english: 'Grand Father',
+    english: 'Grandfather',
     translation: 'Nkolo',
     category: 'Family',
   ),
   Phrase(
-    english: 'Grand Mother',
+    english: 'Grandmother',
     translation: 'Nkolo Mwasi',
     category: 'Family',
   ),
