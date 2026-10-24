@@ -2,6 +2,7 @@ class Phrase {
   final String english;
   final String translation;
   final String category;
+
   const Phrase({
     required this.english,
     required this.translation,
@@ -10,126 +11,129 @@ class Phrase {
 }
 
 const List<Phrase> phrases = [
+  // GREETINGS
   Phrase(
     english: 'Hello',
-    translation: 'Wele',
+    translation: 'Inmwai',
     category: 'Greetings',
   ),
   Phrase(
     english: 'Good morning',
-    translation: 'Elela Gbamu',
+    translation: 'Elele ya gbamu / O liya gbamu',
     category: 'Greetings',
   ),
   Phrase(
     english: 'Good afternoon',
-    translation: 'Njezre Mo Gbamu',
+    translation: 'Ngmerze mo gbamu',
     category: 'Greetings',
   ),
   Phrase(
     english: 'Good evening',
-    translation: 'Ngomba Gbamu',
+    translation: 'Ngombe ya gbamu',
     category: 'Greetings',
   ),
   Phrase(
     english: 'Welcome',
-    translation: 'Wole Lowa',
+    translation: 'Hwe jeli hwe gbamu',
     category: 'Greetings',
   ),
   Phrase(
     english: 'How are you?',
-    translation: 'O Di Bote?',
+    translation: 'Neh ohwa?',
     category: 'Greetings',
   ),
   Phrase(
     english: 'I am fine',
-    translation: 'Me Di Bote',
+    translation: 'Na hweli gbamu',
     category: 'Greetings',
   ),
   Phrase(
     english: 'Thank you',
-    translation: 'Jeki Zrai',
+    translation: 'Na rzomi',
     category: 'Greetings',
   ),
   Phrase(
     english: 'Goodbye',
-    translation: 'Wosa',
+    translation: 'Wèndè gbamu.',
     category: 'Greetings',
   ),
   Phrase(
     english: 'See you later',
-    translation: 'Towele Nde',
+    translation: 'Jainènè',
     category: 'Greetings',
   ),
 
-    Phrase(
+  // FAMILY
+  Phrase(
     english: 'Children',
-    translation: 'hwana',
+    translation: 'Hwana',
     category: 'Family',
   ),
   Phrase(
     english: 'Father',
-    translation: 'Tata',
+    translation: 'Tate / Tata',
     category: 'Family',
   ),
   Phrase(
     english: 'Mother',
-    translation: 'Mama',
+    translation: 'Iya / Nyango',
     category: 'Family',
   ),
   Phrase(
     english: 'Brother',
-    translation: 'Ndeko',
+    translation: 'Ngmanyango / Mwanyanggo',
     category: 'Family',
   ),
   Phrase(
     english: 'Sister',
-    translation: 'Ndeko Mwasi',
+    translation: 'Ndome',
     category: 'Family',
   ),
   Phrase(
     english: 'Uncle',
-    translation: 'Ese',
+    translation: 'Mola',
     category: 'Family',
   ),
   Phrase(
     english: 'Aunt',
-    translation: 'Mawe',
+    translation: 'Ati',
     category: 'Family',
   ),
   Phrase(
     english: 'Family',
-    translation: 'Ndabo',
+    translation: 'Lilumba',
     category: 'Family',
   ),
   Phrase(
     english: 'Grandfather',
-    translation: 'Nkolo',
+    translation: 'Mbamba',
     category: 'Family',
   ),
   Phrase(
     english: 'Grandmother',
-    translation: 'Nkolo Mwasi',
+    translation: 'Mbamba',
     category: 'Family',
   ),
 
-    Phrase(
+  // FOOD
+  Phrase(
     english: 'Eat',
-    translation: 'Lia',
+    translation: 'La',
     category: 'Food',
   ),
   Phrase(
     english: 'Drink',
-    translation: 'Nwa',
+    translation: 'Li nyo',
     category: 'Food',
   ),
   Phrase(
     english: 'Rice',
-    translation: 'Lele',
+    translation: 'Kondi',
     category: 'Food',
   ),
   Phrase(
     english: 'Fish',
-    translation: 'Ngolo',
+    translation: 'Nyama ya maliva',
     category: 'Food',
   ),
   Phrase(
@@ -139,17 +143,17 @@ const List<Phrase> phrases = [
   ),
   Phrase(
     english: 'Pepper',
-    translation: 'Limbe',
+    translation: 'Indoko',
     category: 'Food',
   ),
   Phrase(
     english: 'Salt',
-    translation: 'Moli',
+    translation: 'Ikpa',
     category: 'Food',
   ),
   Phrase(
     english: 'Hunger',
-    translation: 'Njala',
+    translation: 'Njao',
     category: 'Food',
   ),
   Phrase(
@@ -159,11 +163,12 @@ const List<Phrase> phrases = [
   ),
   Phrase(
     english: 'Water',
-    translation: 'Mandi',
+    translation: 'Malihwa',
     category: 'Food',
   ),
 
-    Phrase(
+  // TRAVEL
+  Phrase(
     english: 'Car',
     translation: 'Motowa',
     category: 'Travel',
@@ -180,22 +185,22 @@ const List<Phrase> phrases = [
   ),
   Phrase(
     english: 'Taxi',
-    translation: 'Ndia',
+    translation: 'Ndio',
     category: 'Travel',
   ),
   Phrase(
     english: 'Airport',
-    translation: 'Ekowa',
+    translation: '',
     category: 'Travel',
   ),
   Phrase(
     english: 'Travel',
-    translation: 'Yondo',
+    translation: 'Ende / Yondo',
     category: 'Travel',
   ),
   Phrase(
     english: 'Driver',
-    translation: 'Wa Moto',
+    translation: 'Molukaneli',
     category: 'Travel',
   ),
   Phrase(
@@ -205,16 +210,17 @@ const List<Phrase> phrases = [
   ),
   Phrase(
     english: 'Go',
-    translation: 'Ende',
+    translation: 'Li ende / Ende',
     category: 'Travel',
   ),
   Phrase(
     english: 'Ticket',
-    translation: 'Lifafe',
+    translation: 'Tiketi / Lifafe',
     category: 'Travel',
   ),
 
-    Phrase(
+  // EMERGENCY
+  Phrase(
     english: 'Help',
     translation: 'Jongwane',
     category: 'Emergency',
@@ -231,27 +237,27 @@ const List<Phrase> phrases = [
   ),
   Phrase(
     english: 'Hospital',
-    translation: 'Nganga',
+    translation: 'Ndawa ya nganga / Wasipita',
     category: 'Emergency',
   ),
   Phrase(
     english: 'Danger',
-    translation: 'Woveh',
+    translation: 'Woweh',
     category: 'Emergency',
   ),
   Phrase(
     english: 'Ambulance',
-    translation: 'Moto-mo Nyambe',
+    translation: 'Moto mo Nyambe',
     category: 'Emergency',
   ),
   Phrase(
     english: 'Call',
-    translation: 'Ekeka',
+    translation: 'Wele / Ekeka',
     category: 'Emergency',
   ),
   Phrase(
     english: 'Injury',
-    translation: 'Mbenako',
+    translation: 'Li hwena / Mbenako',
     category: 'Emergency',
   ),
   Phrase(
@@ -261,13 +267,14 @@ const List<Phrase> phrases = [
   ),
   Phrase(
     english: 'Run',
-    translation: 'Livangi',
+    translation: 'Li hwanga / Wanga',
     category: 'Emergency',
   ),
 
-    Phrase(
+  // SHOPPING
+  Phrase(
     english: 'Money',
-    translation: 'Kaffa',
+    translation: 'Kava',
     category: 'Shopping',
   ),
   Phrase(
@@ -277,7 +284,7 @@ const List<Phrase> phrases = [
   ),
   Phrase(
     english: 'Sell',
-    translation: 'Aviseh',
+    translation: 'Awirzè',
     category: 'Shopping',
   ),
   Phrase(
@@ -302,12 +309,12 @@ const List<Phrase> phrases = [
   ),
   Phrase(
     english: 'Shop',
-    translation: 'Likala',
+    translation: '',
     category: 'Shopping',
   ),
   Phrase(
     english: 'Food',
-    translation: 'Molely',
+    translation: 'Moleli',
     category: 'Shopping',
   ),
   Phrase(
